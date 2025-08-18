@@ -1,0 +1,24 @@
+title: TechExcel Secure and Govern M365 Copilot and agents
+description: 
+theme: just-the-docs
+
+aux_links:
+  "TechExcel Secure and Govern M365 Copilot and agents": 
+    - "https://github.com/microsoft/TechExcel-Secure-and-Govern-M365-Copilot-and-Agents-Sims"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: important
+    color: blue
+  new:
+    title: new
+    color: green
+  note:
+    title: note 
+    color: purple
+  warning:
+    title: warning
+    color: red
