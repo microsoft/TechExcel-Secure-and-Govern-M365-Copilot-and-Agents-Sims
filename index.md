@@ -6,7 +6,7 @@ nav_order: 1
 
 # TechExcel: Secure and Govern M365 Copilot and Agents
 
-This lab is designed for anyone interested in the app modernization process. Lerners will evaluate Microsoft 365 Copilot and custom agents with Microsoft Purview controls to prevent data exfiltration and oversharing. By the end, leraners will have practical experience assessing label coverage, gating Copilot access, enabling audit & analytics, and applying dynamic protections and governance.
+This lab is designed for anyone interested in the app modernization process. Learners will evaluate Microsoft 365 Copilot and custom agents with Microsoft Purview controls to prevent data exfiltration and oversharing. By the end, learners will have practical experience assessing label coverage, gating Copilot access, enabling audit & analytics, and applying dynamic protections and governance.
 
 ## Architecture
 !IMAGE[purview-architecture.png](images/purview-architecture.png)
