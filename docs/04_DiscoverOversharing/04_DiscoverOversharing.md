@@ -9,4 +9,4 @@ has_children: true
 # Exercise 04: Discover oversharing risks using DSPM for AI
 
 ### Introduction
-Before granting AI broad retrieval, Contoso must know where sensitive content is over-shared (Anyone/Org-wide links, unscanned data, unlabeled items). DSPM pinpoints those risks so security can remediate or temporarily fence off hotspots, avoiding a repeat of the untraceable press leak that halted a high-stakes project.
+Before deploying M365 Copilot and agents broadly, Contoso PG wants to evaluate where sensitive content is overshared (anyone/org-wide links, unscanned data, unlabeled items). DSPM for AI pinpoints those risks so security can remediate them or exclude it from Copilot use.
